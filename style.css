@@ -78,3 +78,12 @@ Twingle-Klassen hinzugefügt
   font-weight: bold;
   font-family: 'Mont AS Pro', sans-serif;
 }
+.twingle-submit-button:enabled {
+  color: #FFFFFF !important;
+  background-color: #0000FF !important;
+  font-weight: bold;
+  font-family: 'Mont AS Pro', sans-serif;
+  text-shadow: none !important;
+  filter: none !important;
+  opacity: 1 !important;
+}
